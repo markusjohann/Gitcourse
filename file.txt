@@ -1,5 +1,3 @@
-
-midagi uut:
 vim file test
 changes 
 changes agai
